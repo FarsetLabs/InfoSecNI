@@ -17,6 +17,7 @@ A ‘**transparent governance**’ model was agreed, making meeting issues/discu
 Given the current COVID-19  situation, it makes sense for collaboration and meetups to be 100% online for the time being...
 
 * [Forum](https://discourse.farsetlabs.org.uk/c/events/infosecni/9)
+* [Discord Chat Room](https://discord.com/invite/AxQ9bH)
 * [PM/Issue Tracker](https://github.com/orgs/FarsetLabs/projects/2)
 * [The Source For This Page](https://github.com/FarsetLabs/InfoSecNI)
 
