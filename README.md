@@ -14,7 +14,7 @@ The core collaborative group spans a wide range of infosec companies, government
 
 # Events/Projects/Plans
 
-[**Next Event | Wednesday 2022-10-05T1900+01:00 | Town Square**](https://www.meetup.com/infosec-ni/events/288802098)
+**[Next Event \| Wednesday 2022-10-05T1900+01:00 \| Town Square](https://www.meetup.com/infosec-ni/events/288802098)**
 
 In the coming weeks and months you can look forward to;
 *	“Getting started with launching and securing CTF VM’s”
