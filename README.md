@@ -1,5 +1,7 @@
 # InfoSecNI
 
+[![](/Social_ad.png)](https://www.meetup.com/infosec-ni/)
+
 The core collaborative group spans a wide range of infosec companies, government and charities. We hope this will ensure no one place has any over-riding influence, and will prevent the organising burden resting precariously on only one or two people. *If you’d also like to be more involved please do reach out.*
 
 # Links
