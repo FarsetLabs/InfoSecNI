@@ -1,6 +1,6 @@
 # InfoSecNI
 
-[![](/Social_ad.png)](https://www.meetup.com/infosec-ni/)
+[![](/assets/Social_ad.png)](https://www.meetup.com/infosec-ni/)
 
 We're building a community of infosec folks in Northern Ireland. Everyone is welcome whether you're a pro, an amateur or just a wannabe! Our aim is to chat about security, help each other out with questions and projects, and provide a social setting for all of this.
 
