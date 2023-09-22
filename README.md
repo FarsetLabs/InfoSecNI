@@ -2,7 +2,7 @@
 
 [![](/assets/Social_ad.png)](https://www.meetup.com/infosec-ni/)
 
-We're building a community of infosec folks in Northern Ireland. Everyone is welcome whether you're a pro, an amateur or just a wannabe! Our aim is to chat about security, help each other out with questions and projects, and provide a social setting for all of this.
+We're a community of infosec folks in Northern Ireland. Everyone is welcome whether you're a pro, an amateur or just a wannabe! Our aim is to chat about security, help each other out with questions and projects, and provide a social setting for all of this.
 
 The core collaborative group spans a wide range of infosec companies, government and charities. We hope this will ensure no one place has any over-riding influence, and will prevent the organising burden resting precariously on only one or two people. *If you’d also like to be more involved please do reach out.*
 
@@ -16,7 +16,7 @@ The core collaborative group spans a wide range of infosec companies, government
 
 # Events/Projects/Plans
 
-**[Next Event \| Wednesday 2022-10-05T1900+01:00 \| Town Square](https://www.meetup.com/infosec-ni/events/288802098)**
+**[Next Event \| First Wednesday of Every Month\| Woodworkers \| 1900](https://www.meetup.com/infosec-ni/)**
 
 In the coming weeks and months you can look forward to;
 *	“Getting started with launching and securing CTF VM’s”
