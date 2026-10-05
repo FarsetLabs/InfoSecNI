@@ -10,7 +10,7 @@ The core collaborative group spans a wide range of infosec companies, government
 
 * [Twitter](https://twitter.com/infosecni)
 * [Meetup](https://www.meetup.com/infosec-ni/)
-* [Events Calendar](https://www.meetup.com/infosec-ni/events/calendar/) [(ical)](webcal://www.meetup.com/infosec-ni/events/ical/)
+* [Events Calendar](https://www.meetup.com/infosec-ni/events/calendar/) -- 🗓️ Subscribe: [Google](https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.meetup.com%2Finfosec-ni%2Fevents%2Fical%2F) · [Outlook](https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.meetup.com%2Finfosec-ni%2Fevents%2Fical%2F&name=InfoSecNI%20Events) · [Apple](webcal://www.meetup.com/infosec-ni/events/ical/) · [ICS](https://www.meetup.com/infosec-ni/events/ical/)
 * [Discord](https://discord.gg/n9bBJ7E)
 * [Forum](https://discourse.farsetlabs.org.uk/c/events/infosecni/9)
 * [Keybase Team](https://keybase.io/team/infosecni)
