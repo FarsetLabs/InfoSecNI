@@ -10,8 +10,10 @@ The core collaborative group spans a wide range of infosec companies, government
 
 * [Twitter](https://twitter.com/infosecni)
 * [Meetup](https://www.meetup.com/infosec-ni/)
+* [Events Calendar](https://www.meetup.com/infosec-ni/events/calendar/) [(ical)](webcal://www.meetup.com/infosec-ni/events/ical/)
 * [Discord](https://discord.gg/n9bBJ7E)
 * [Forum](https://discourse.farsetlabs.org.uk/c/events/infosecni/9)
+* [Keybase Team](https://keybase.io/team/infosecni)
 * [The Source For This Page](https://github.com/FarsetLabs/InfoSecNI)
 
 # Events/Projects/Plans
@@ -25,8 +27,6 @@ In the coming weeks and months you can look forward to;
 (CTF platforms discussed included JuiceBox, HackTheBox and Boot2Root, as well as a custom solution for our own challenges, but other suggestions would be welcomed!)
 	*(CTF platforms discussed included JuiceBox, HackTheBox and Boot2Root, as well as a custom solution for our own challenges, but other suggestions would be welcomed!)*
 *	General infosec online meetups/hangouts, with a speaker and then general chat.
-
-[Events calendar](https://www.meetup.com/infosec-ni/events/calendar/)
 
 # Community Philosophy 
 
